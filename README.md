@@ -1,6 +1,6 @@
 # GittiGidiyor-UITestAutomation
 
 
-## Kullanici giris
-## Ürün arama
-## Anasayfadaki ürünleri çekme
+#### Kullanici giris
+#### Ürün arama
+#### Anasayfadaki ürünleri çekme
